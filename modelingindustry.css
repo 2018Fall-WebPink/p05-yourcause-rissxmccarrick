@@ -41,14 +41,16 @@ p {font-size: 130%;}
 
 #nofloat {clear:both;}
 
-p3 {text-align: left;
+ /* this decides the size of padding */ 
+p3 {text-align: left;  
     padding: .5em;
     margin: .5em;
 }
+ /* this decides the size of border */ 
 footer {text-align: left;  border-top: 3px solid red;
 }
 
-
+ /* this decides the margins */ 
 p6 {float: left;
 padding: .5em;
     margin: .5em;}
